@@ -1,0 +1,7 @@
+properties:
+- name: Client
+  type: string
+- name: X
+  type: decimal
+- name: Y
+  type: decimal

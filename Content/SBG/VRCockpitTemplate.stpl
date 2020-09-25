@@ -1,0 +1,11 @@
+title: VR Cockpit Template
+description: A VR Cockpit typical
+backgroundImage: SBG/Icons/multiscreen.png
+constraints:
+- componentPath: SBG/VRCockpit
+  versionConstraint: "^1.0"
+  minCount: 1
+  maxCount: 1
+- componentPath: SBG/MouseControl
+  versionConstraint: "^1.0"
+  minCount: 0

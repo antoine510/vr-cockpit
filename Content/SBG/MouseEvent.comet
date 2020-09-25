@@ -1,0 +1,11 @@
+properties:
+- name: Client
+  type: string
+- name: LeftDown
+  type: boolean
+- name: LeftUp
+  type: boolean
+- name: RightDown
+  type: boolean
+- name: RightUp
+  type: boolean

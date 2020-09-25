@@ -1,0 +1,9 @@
+[submodule "Plugins/SBGUnrealAdapter"]
+	path = Plugins/SBGUnrealAdapter
+	url = git@gitlab.inria.fr:Simbiot/common/team-only/demos/ue-plugins/satellite-adapter-unreal.git
+[submodule "Plugins/Moonlight"]
+	path = Plugins/Moonlight
+	url = git@gitlab.inria.fr:Simbiot/common/team-only/demos/ue-plugins/moonlight.git
+[submodule "Plugins/VlcMedia"]
+	path = Plugins/VlcMedia
+	url = https://github.com/ue4plugins/VlcMedia.git

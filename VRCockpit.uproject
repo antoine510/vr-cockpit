@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VRCockpit",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"VlcMedia",
+				"SBGUnrealAdapter"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VlcMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "SBGUnrealAdapter",
+			"Enabled": true
+		}
+	]
+}

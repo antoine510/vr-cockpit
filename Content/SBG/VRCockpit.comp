@@ -1,0 +1,12 @@
+title: Mouse Master
+version: "1.0"
+description: This component is used by a supervisor to control mice
+iconImage: SBG/Icons/VRicon.png
+backgroundImage: SBG/Icons/VRbanner.png
+topics:
+- name: mousePosition
+  comet: MousePosition
+  out: true
+- name: mouseEvent
+  comet: MouseEvent
+  out: true
